@@ -12,7 +12,7 @@ and has turned into a much better alternative to Lua than Moonscript.
 - [Class Libraries](#class-libraries)
 - [Editor Tools](#editor-tools)
 - [Love2D](#love2d)
-- [Game Engines)(#game-engines)
+- [Game Engines](#game-engines)
 - [WASM](#wasm)
 - [Configs](#configs) - software configs written in Yue (yue->lua)
 - [Projects](#projects) - projects that use Yue
